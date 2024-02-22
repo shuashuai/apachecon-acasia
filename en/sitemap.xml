@@ -295,6 +295,18 @@
                 href="/search.html"
                 />
   </url><url>
+    <loc>/sponsor.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/sponsor.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/sponsor.html"
+                />
+  </url><url>
     <loc>/tracks/streaming.html</loc>
     <xhtml:link
                 rel="alternate"
