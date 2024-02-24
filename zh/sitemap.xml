@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/zh/venue_travel/venue.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/venue_travel/venue.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/venue_travel/venue.html"
+                />
+  </url><url>
+    <loc>/zh/guide/visa_letter_request.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/guide/visa_letter_request.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/guide/visa_letter_request.html"
+                />
+  </url><url>
     <loc>/zh/cfp.html</loc>
     <priority>0</priority>
     <xhtml:link
@@ -15,30 +39,28 @@
                 href="/zh/cfp.html"
                 />
   </url><url>
-    <loc>/zh/guide.html</loc>
-    <priority>0</priority>
+    <loc>/zh/guide/convince_your_boss.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/guide.html"
+                href="/guide/convince_your_boss.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/guide.html"
+                href="/zh/guide/convince_your_boss.html"
                 />
   </url><url>
-    <loc>/zh/register.html</loc>
-    <priority>0</priority>
+    <loc>/zh/guide/presentation_slides_template.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/register.html"
+                href="/guide/presentation_slides_template.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/register.html"
+                href="/zh/guide/presentation_slides_template.html"
                 />
   </url><url>
     <loc>/zh/search/search.html</loc>
@@ -51,19 +73,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/search/search.html"
-                />
-  </url><url>
-    <loc>/zh/sponsorship.html</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/sponsorship.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/sponsorship.html"
                 />
   </url><url>
     <loc>/zh/tac.html</loc>
@@ -101,6 +110,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tracks/dataops.html"
+                />
+  </url><url>
+    <loc>/zh/guide.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/guide.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/guide.html"
                 />
   </url><url>
     <loc>/zh/tracks/incubator.html</loc>
@@ -173,6 +194,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tracks.html"
+                />
+  </url><url>
+    <loc>/zh/venue_travel.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/venue_travel.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/venue_travel.html"
                 />
   </url><url>
     <loc>/zh/tracks/webserverandtomcat.html</loc>
