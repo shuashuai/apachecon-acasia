@@ -75,19 +75,6 @@
                 href="/zh/search/search.html"
                 />
   </url><url>
-    <loc>/zh/tac.html</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tac.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tac.html"
-                />
-  </url><url>
     <loc>/zh/tracks/api.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -316,6 +303,18 @@
                 href="/zh/tracks/datalake.html"
                 />
   </url><url>
+    <loc>/zh/tac.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tac.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tac.html"
+                />
+  </url><url>
     <loc>/zh/tracks/streaming.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -350,6 +349,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tracks/iot.html"
+                />
+  </url><url>
+    <loc>/zh/conduct.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/conduct.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/conduct.html"
                 />
   </url><url>
     <loc>/zh/tracks/general.html</loc>

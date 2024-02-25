@@ -80,18 +80,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/zh/tac.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/tac.html</guid>
-      <description>Apache软件基金会 旅行资助委员会（Travel Assistance Committee，TAC） 为本次会议提供旅行资助。
-那些考虑申请财务援助的人应该知道TAC的财务赞助有限，因此每个Apache活动只有少数名额可用。申请人应该有出席ASF活动的有效理由，且申请人、ASF和整个开源社区都有益。
-在申请旅行资助之前，请仔细阅读整个旅行赞助说明页面。
-申请CommunityOverCode Asia 2023旅行资助！</description>
-    </item>
-    
-    <item>
       <title>API / 微服务</title>
       <link>/zh/tracks/api.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,6 +218,18 @@ Apache Dubbo 是当前国内使用最广泛、影响力最大的开源微服务�
     </item>
     
     <item>
+      <title>旅行资助</title>
+      <link>/zh/tac.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tac.html</guid>
+      <description>Apache软件基金会 旅行资助委员会（Travel Assistance Committee，TAC） 为本次会议提供旅行资助。
+那些考虑申请财务援助的人应该知道TAC的财务赞助有限，因此每个Apache活动只有少数名额可用。申请人应该有出席ASF活动的有效理由，且申请人、ASF和整个开源社区都有益。
+在申请旅行资助之前，请仔细阅读整个旅行赞助说明页面。
+申请CommunityOverCode Asia 2024旅行资助！</description>
+    </item>
+    
+    <item>
       <title>流处理</title>
       <link>/zh/tracks/streaming.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -258,6 +258,21 @@ Apache Dubbo 是当前国内使用最广泛、影响力最大的开源微服务�
       <guid>/zh/tracks/iot.html</guid>
       <description>近年来， 日渐兴起的物联网（Internet of Things）与工业物联网（Industrial Internet of Things）应用对嵌入式操作系统、边缘数据采集、边-云数据管理、数据分析提出了许多挑战。为此，Apache 软件基金会提供了如Apache IoTDB, Apache Mynewt, Apache PLC4X和Apache Streampipes等一系列IoT相关的项目。
 IoT/IIoT主题将围绕Apache软件基金会中IoT相关项目的最新进展、核心技术以及用户经验分享等话题展开研讨，致力于打造成IoT应用用户和开发者们的技术盛宴。</description>
+    </item>
+    
+    <item>
+      <title>行为准则</title>
+      <link>/zh/conduct.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/conduct.html</guid>
+      <description>在Apache软件基金会，所有在线互动均受ASF行为准则的管辖，而面对面的活动则受反骚扰政策。
+CommunitOverCode (前 ApacheCon ) 致力于为每个人提供无骚扰的体验。我们不容忍任何形式的参与者骚扰。违反这些规则的参加者可以根据活动组织者的判断，予以制裁或开除，且不予退款。
+骚扰包括令人反感的口头评论，故意的恐吓，跟踪，跟踪，不必要的摄影或录音，谈话或其他事件的持续中断，不适当的身体接触以及不受欢迎的性关注。被要求停止任何骚扰行为的参与者应立即遵守。
+在包括演讲在内的任何活动场所，都不会容忍性语言和图像。参展商还应避免使用带有色情色彩的图像，活动或其他材料。展位人员（包括志愿者）不得使用带有性服装/制服/服装，或以其他方式营造性环境。
+如果参与者进行骚扰行为，组织者可以采取他们认为适当的任何措施，包括警告违法者或开除该事件，不予退款。我们希望参与者在所有活动场所和相关社交活动中都遵守这些规则。
+如果您受到骚扰，请注意有人受到骚扰，或有其他任何疑虑，请立即与活动团队成员联系。该团队可以在注册处找到。
+您可以通过电子邮件planners@apachecon.com或活动网站上的实时聊天功能与活动团队联系。</description>
     </item>
     
     <item>

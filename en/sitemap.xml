@@ -75,19 +75,6 @@
                 href="/search/search.html"
                 />
   </url><url>
-    <loc>/tac.html</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tac.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tac.html"
-                />
-  </url><url>
     <loc>/tracks/ai.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,6 +121,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tracks/cloudnative.html"
+                />
+  </url><url>
+    <loc>/conduct.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/conduct.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/conduct.html"
                 />
   </url><url>
     <loc>/tracks/community.html</loc>
@@ -362,6 +361,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tracks.html"
+                />
+  </url><url>
+    <loc>/tac.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tac.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tac.html"
                 />
   </url><url>
     <loc>/venue_travel.html</loc>
