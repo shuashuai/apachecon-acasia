@@ -87,6 +87,18 @@
                 href="/zh/tracks/api.html"
                 />
   </url><url>
+    <loc>/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+  </url><url>
     <loc>/zh/tracks/dataops.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -205,18 +217,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tracks/webserverandtomcat.html"
-                />
-  </url><url>
-    <loc>/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
                 />
   </url><url>
     <loc>/zh/tracks/cloudnative.html</loc>
