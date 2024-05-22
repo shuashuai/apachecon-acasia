@@ -24,21 +24,13 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/zh/guide/convince_your_boss.html</link>
+      <title>无障碍设施</title>
+      <link>/zh/guide/accessibility.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zh/guide/convince_your_boss.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/zh/guide/presentation_slides_template.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/guide/presentation_slides_template.html</guid>
-      <description></description>
+      <guid>/zh/guide/accessibility.html</guid>
+      <description>CommunityOverCode Asia 力求为所有人提供一个欢迎、包容和无障碍的环境，无论其能力如何。
+需要特殊配套服务的参会者请在注册时提供详细信息，并发送电子邮件至 ningjiang@apache.org 与我们联系。您的相关信息将被保密，只有需要知道以确保提供这些配套服务的人员才能了解。</description>
     </item>
     
   </channel>

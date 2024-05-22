@@ -54,24 +54,6 @@
     
     <item>
       <title></title>
-      <link>/zh/guide/convince_your_boss.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/guide/convince_your_boss.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/zh/guide/presentation_slides_template.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/guide/presentation_slides_template.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/zh/search/search.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -227,6 +209,16 @@ Apache Dubbo 是当前国内使用最广泛、影响力最大的开源微服务�
 那些考虑申请财务援助的人应该知道TAC的财务赞助有限，因此每个Apache活动只有少数名额可用。申请人应该有出席ASF活动的有效理由，且申请人、ASF和整个开源社区都有益。
 在申请旅行资助之前，请仔细阅读整个旅行赞助说明页面。
 申请CommunityOverCode Asia 2024旅行资助！</description>
+    </item>
+    
+    <item>
+      <title>无障碍设施</title>
+      <link>/zh/guide/accessibility.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/guide/accessibility.html</guid>
+      <description>CommunityOverCode Asia 力求为所有人提供一个欢迎、包容和无障碍的环境，无论其能力如何。
+需要特殊配套服务的参会者请在注册时提供详细信息，并发送电子邮件至 ningjiang@apache.org 与我们联系。您的相关信息将被保密，只有需要知道以确保提供这些配套服务的人员才能了解。</description>
     </item>
     
     <item>

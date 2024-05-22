@@ -39,30 +39,6 @@
                 href="/zh/cfp.html"
                 />
   </url><url>
-    <loc>/zh/guide/convince_your_boss.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/guide/convince_your_boss.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/guide/convince_your_boss.html"
-                />
-  </url><url>
-    <loc>/zh/guide/presentation_slides_template.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/guide/presentation_slides_template.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/guide/presentation_slides_template.html"
-                />
-  </url><url>
     <loc>/zh/search/search.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -313,6 +289,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tac.html"
+                />
+  </url><url>
+    <loc>/zh/guide/accessibility.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/guide/accessibility.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/guide/accessibility.html"
                 />
   </url><url>
     <loc>/zh/tracks/streaming.html</loc>
