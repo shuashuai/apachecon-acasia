@@ -375,16 +375,16 @@
                 href="/venue_travel.html"
                 />
   </url><url>
-    <loc>/tracks/webserverandtomcat.html</loc>
+    <loc>/tracks/webserver.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tracks/webserverandtomcat.html"
+                href="/zh/tracks/webserver.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tracks/webserverandtomcat.html"
+                href="/tracks/webserver.html"
                 />
   </url>
 </urlset>

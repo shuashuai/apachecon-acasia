@@ -183,16 +183,16 @@
                 href="/zh/venue_travel.html"
                 />
   </url><url>
-    <loc>/zh/tracks/webserverandtomcat.html</loc>
+    <loc>/zh/tracks/webserver.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tracks/webserverandtomcat.html"
+                href="/tracks/webserver.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tracks/webserverandtomcat.html"
+                href="/zh/tracks/webserver.html"
                 />
   </url><url>
     <loc>/zh/tracks/cloudnative.html</loc>
