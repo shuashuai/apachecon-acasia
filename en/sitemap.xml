@@ -351,18 +351,6 @@
                 href="/tracks.html"
                 />
   </url><url>
-    <loc>/tac.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tac.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tac.html"
-                />
-  </url><url>
     <loc>/venue_travel.html</loc>
     <xhtml:link
                 rel="alternate"

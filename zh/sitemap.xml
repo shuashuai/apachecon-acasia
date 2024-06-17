@@ -279,18 +279,6 @@
                 href="/zh/tracks/datalake.html"
                 />
   </url><url>
-    <loc>/zh/tac.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tac.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tac.html"
-                />
-  </url><url>
     <loc>/zh/guide/accessibility.html</loc>
     <xhtml:link
                 rel="alternate"

@@ -230,17 +230,6 @@ In ASF, there are various projects that provide messaging services, for example:
     </item>
     
     <item>
-      <title>Travel Assistance</title>
-      <link>/tac.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tac.html</guid>
-      <description>ASF Travel Assistance Committee provides travel assistant for this conference.
-Those who are thinking of applying for financial assistance should know that the Committee has limited finances and that, as a consequence, only a few places are available for each Apache event. Applicants should have valid reasons for attending ASF events that are of benefit to both the applicant and the ASF, and to open source as a whole.
-Please read entire page BEFORE applying for assistance.</description>
-    </item>
-    
-    <item>
       <title>Web Server/Tomcat</title>
       <link>/tracks/webserver.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
