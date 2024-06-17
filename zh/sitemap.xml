@@ -207,6 +207,18 @@
                 href="/zh/tracks/ai.html"
                 />
   </url><url>
+    <loc>/zh/schedule.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/schedule.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/schedule.html"
+                />
+  </url><url>
     <loc>/zh/sponsor.html</loc>
     <xhtml:link
                 rel="alternate"

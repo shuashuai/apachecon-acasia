@@ -279,6 +279,18 @@
                 href="/tracks/performance.html"
                 />
   </url><url>
+    <loc>/schedule.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/schedule.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/schedule.html"
+                />
+  </url><url>
     <loc>/search.html</loc>
     <xhtml:link
                 rel="alternate"
