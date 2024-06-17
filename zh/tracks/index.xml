@@ -7,17 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/zh/tracks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>API / 微服务</title>
-      <link>/zh/tracks/api.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/tracks/api.html</guid>
-      <description>API 是服务连接的基石，通过 API 我们可以将各种服务进行搭建，并提供给用户使用；随着应用的复杂度越来越高，单体应用逐渐被拆分为微服务，产品可以快速迭代的同时也带来安全、维护和可观测性方面的技术挑战。
-在 ASF 中有多个项目是和 API、服务网关相关的，比如 Apache APISIX、Apache Shenyu 等。
-在这个专题中，大家不仅可以了解前沿技术和展望，也会学习到这些 Apache 项目的最佳实践。</description>
-    </item>
-    
-    <item>
       <title>DataOps</title>
       <link>/zh/tracks/dataops.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,6 +34,15 @@
     </item>
     
     <item>
+      <title>Monolith vs Microservice</title>
+      <link>/zh/tracks/api.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/tracks/api.html</guid>
+      <description>微服务一度成为我们技术选型的默认选项,似乎不是微服务的就是落后的.但在近两年开始,关于微服务的质疑开始涌现,大家开始怀念单体服务的简单直接,避免服务化后的各种治理成本。 业界也涌现出了一些全新的编程框架,让开发者具备单体开发的体验与高效,同时具备微服务部署的灵活性与伸缩性,甚至具备一定的 Serverless 特性。</description>
+    </item>
+    
+    <item>
       <title>OLAP &amp; Data Analysis</title>
       <link>/zh/tracks/olap.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -53,17 +51,6 @@
       <description>随着大数据时代的到来，数据分析和OLAP技术在企业中的应用也越来越广泛。为了促进业界在这一领域的交流和分享，我们设立了OLAP和数据分析专场。我们希望邀请业内的专家和学者分享他们在数据分析和OLAP技术方面的研究成果、实践经验和最新发展。
 在ASF，有各种关于OLAP和数据分析的项目，例如： Apache Doris, Apache Druid, Apache Kylin, Apache Pinot, Apache Hawq等。
 该主题可以涵盖数据分析和OLAP技术的研究进展、应用案例、最佳实践、性能优化等方面。我们相信，这将给与会者带来极大的好处。</description>
-    </item>
-    
-    <item>
-      <title>RPC &amp; Service Mesh</title>
-      <link>/zh/tracks/rpc.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/tracks/rpc.html</guid>
-      <description>RPC（Remote Procedure Call）即远程过程调用，是用于解决分布式系统架构中的跨进程、跨主机通信问题，随着近年来微服务架构的广泛应用，我们围绕 RPC 通信构建了适合解决微服务开发、服务治理的框架与解决方案。
-Apache Dubbo 是当前国内使用最广泛、影响力最大的开源微服务开发框架，在本分论坛中我们将围绕 Dubbo 框架相关技术方向、生态与实践总结展开：
- Dubbo3 在通信协议、云原生观测性、Kubernetes、服务网格、GraalVM 静态化方面的最新进展 微服务生态相关最新进展，包括分布式事务、限流降级、服务治理等 来自工商银行、政彩云等典型企业的微服务实践经验总结  本论坛非常适合从事企业级微服务架构的相关技术管理人员、架构师、开发者。</description>
     </item>
     
     <item>
@@ -168,10 +155,10 @@ IoT/IIoT主题将围绕Apache软件基金会中IoT相关项目的最新进展、
     
     <item>
       <title>通用</title>
-      <link>/zh/tracks/general.html</link>
+      <link>/zh/tracks/others.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tracks/general.html</guid>
+      <guid>/zh/tracks/others.html</guid>
       <description>通用演讲</description>
     </item>
     

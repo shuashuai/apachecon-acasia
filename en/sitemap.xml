@@ -75,18 +75,6 @@
                 href="/tracks/ai.html"
                 />
   </url><url>
-    <loc>/tracks/api.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tracks/api.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tracks/api.html"
-                />
-  </url><url>
     <loc>/categories.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -183,16 +171,16 @@
                 href="/tracks/dataops.html"
                 />
   </url><url>
-    <loc>/tracks/general.html</loc>
+    <loc>/tracks/others.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tracks/general.html"
+                href="/zh/tracks/others.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tracks/general.html"
+                href="/tracks/others.html"
                 />
   </url><url>
     <loc>/guide.html</loc>
@@ -255,6 +243,18 @@
                 href="/tracks/messaging.html"
                 />
   </url><url>
+    <loc>/tracks/api.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tracks/api.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tracks/api.html"
+                />
+  </url><url>
     <loc>/tracks/olap.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -277,18 +277,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tracks/performance.html"
-                />
-  </url><url>
-    <loc>/tracks/rpc.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tracks/rpc.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tracks/rpc.html"
                 />
   </url><url>
     <loc>/search.html</loc>

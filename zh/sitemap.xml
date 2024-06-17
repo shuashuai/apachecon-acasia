@@ -51,18 +51,6 @@
                 href="/zh/search/search.html"
                 />
   </url><url>
-    <loc>/zh/tracks/api.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tracks/api.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tracks/api.html"
-                />
-  </url><url>
     <loc>/zh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -123,6 +111,18 @@
                 href="/zh/tracks/keynote.html"
                 />
   </url><url>
+    <loc>/zh/tracks/api.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tracks/api.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tracks/api.html"
+                />
+  </url><url>
     <loc>/zh/tracks/olap.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -133,18 +133,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tracks/olap.html"
-                />
-  </url><url>
-    <loc>/zh/tracks/rpc.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tracks/rpc.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tracks/rpc.html"
                 />
   </url><url>
     <loc>/zh/search.html</loc>
@@ -351,16 +339,16 @@
                 href="/zh/conduct.html"
                 />
   </url><url>
-    <loc>/zh/tracks/general.html</loc>
+    <loc>/zh/tracks/others.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tracks/general.html"
+                href="/tracks/others.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tracks/general.html"
+                href="/zh/tracks/others.html"
                 />
   </url>
 </urlset>
