@@ -39,6 +39,29 @@
     </item>
     
     <item>
+      <title>制作演示文档</title>
+      <link>/zh/guide/presentation_slides_template.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/guide/presentation_slides_template.html</guid>
+      <description>您可以在此处下载我们的 PPT 模板 slides template. 如果您所在公司无法访问 Google Docs，请联系 nadia@apache.org，我们将邮件为您发送该文件。
+我们强烈建议您使用大会统一的 PPT 模板，但如果您不计划使用该模板，请至少在封面封底页使用同一的模板。
+ 如果您使用自己的 PPT 模板，请将幻灯片大小比例设置为 16:9。 请勿包含任何攻击性或色情方面的内容，这将违反《行为准则》。  演讲时长为 30 分钟。这个时间包括 Q&amp;amp;A。
+理想的演讲时间分配为：
+ 23-27 分钟演讲； 3-5 分钟问答。  </description>
+    </item>
+    
+    <item>
+      <title>向您所在公司阐述参会价值</title>
+      <link>/zh/guide/convince_your_boss.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/guide/convince_your_boss.html</guid>
+      <description>想参加本届大会但不确定如何向老板提出申请？我们准备了这份邮件模板来帮助您向公司解释为何参加 CommunityOverCode Asia 很重要。您可以视需要使用整封邮件或适合您的部分。我们期待在杭州与您相聚！
+下载模板</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/zh/cfp.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

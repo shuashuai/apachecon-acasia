@@ -26,6 +26,30 @@
                 href="/zh/guide/visa_letter_request.html"
                 />
   </url><url>
+    <loc>/zh/guide/presentation_slides_template.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/guide/presentation_slides_template.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/guide/presentation_slides_template.html"
+                />
+  </url><url>
+    <loc>/zh/guide/convince_your_boss.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/guide/convince_your_boss.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/guide/convince_your_boss.html"
+                />
+  </url><url>
     <loc>/zh/cfp.html</loc>
     <priority>0</priority>
     <xhtml:link
