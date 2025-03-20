@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guides on CommunityOverCode Asia 2025</title>
+    <title>Guides on Community Over Code Asia 2025</title>
     <link>/guide.html</link>
-    <description>Recent content in Guides on CommunityOverCode Asia 2025</description>
+    <description>Recent content in Guides on Community Over Code Asia 2025</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -34,7 +34,7 @@ We strongly recommend you to use the template, but if you don’t plan to use it
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/guide/convince_your_boss.html</guid>
-      <description>Want to attend but not sure how to bring it up with your boss? We’ve created this sample email to help you explain why it’s important to attend CommunityOverCode Asia 2024. Feel free to use the full letter or pieces that work for you. See you in Hangzhou!
+      <description>Want to attend but not sure how to bring it up with your boss? We’ve created this sample email to help you explain why it’s important to attend Community Over Code Asia 2024. Feel free to use the full letter or pieces that work for you. See you in Hangzhou!
 Download Template </description>
     </item>
     
@@ -44,7 +44,7 @@ Download Template </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/guide/accessibility.html</guid>
-      <description>CommunityOverCode Asia strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability.
+      <description>Community Over Code Asia strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability.
 Participants requiring special accommodations should provide details in their registration and/or by emailing us at ningjiang@apache.org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.</description>
     </item>
     
