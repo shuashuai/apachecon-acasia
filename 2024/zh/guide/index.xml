@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on CommunityOverCode Asia 2024</title>
-    <link>/zh/guide.html</link>
+    <link>/2024/zh/guide.html</link>
     <description>Recent content in Guides on CommunityOverCode Asia 2024</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/zh/guide/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/2024/zh/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>申请签证</title>
-      <link>/zh/guide/visa_letter_request.html</link>
+      <link>/2024/zh/guide/visa_letter_request.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zh/guide/visa_letter_request.html</guid>
+      <guid>/2024/zh/guide/visa_letter_request.html</guid>
       <description>如您需签证邀请函，请参照本页的指示操作。
 说明： 在申请签证邀请函之前，请先访问您所在城市的中国签证申请服务中心网站了解相关签证申请信息。另请关注中国最新的签证政策：
   外籍公民 144 小时免签证过境政策：   中国恢复了 144 小时免签证过境政策，允许部分国家的公民在不事先申请签证的情况下，享受六天的时间前往中国的特定地区。
@@ -25,10 +25,10 @@
     
     <item>
       <title>制作演示文档</title>
-      <link>/zh/guide/presentation_slides_template.html</link>
+      <link>/2024/zh/guide/presentation_slides_template.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zh/guide/presentation_slides_template.html</guid>
+      <guid>/2024/zh/guide/presentation_slides_template.html</guid>
       <description>您可以在此处下载我们的 PPT 模板 slides template. 如果您所在公司无法访问 Google Docs，请联系 nadia@apache.org，我们将邮件为您发送该文件。
 我们强烈建议您使用大会统一的 PPT 模板，但如果您不计划使用该模板，请至少在封面封底页使用同一的模板。
  如果您使用自己的 PPT 模板，请将幻灯片大小比例设置为 16:9。 请勿包含任何攻击性或色情方面的内容，这将违反《行为准则》。  演讲时长为 30 分钟。这个时间包括 Q&amp;amp;A。
@@ -38,20 +38,20 @@
     
     <item>
       <title>向您所在公司阐述参会价值</title>
-      <link>/zh/guide/convince_your_boss.html</link>
+      <link>/2024/zh/guide/convince_your_boss.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zh/guide/convince_your_boss.html</guid>
+      <guid>/2024/zh/guide/convince_your_boss.html</guid>
       <description>想参加本届大会但不确定如何向老板提出申请？我们准备了这份邮件模板来帮助您向公司解释为何参加 CommunityOverCode Asia 很重要。您可以视需要使用整封邮件或适合您的部分。我们期待在杭州与您相聚！
 下载模板</description>
     </item>
     
     <item>
       <title>无障碍设施</title>
-      <link>/zh/guide/accessibility.html</link>
+      <link>/2024/zh/guide/accessibility.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zh/guide/accessibility.html</guid>
+      <guid>/2024/zh/guide/accessibility.html</guid>
       <description>CommunityOverCode Asia 力求为所有人提供一个欢迎、包容和无障碍的环境，无论其能力如何。
 需要特殊配套服务的参会者请在注册时提供详细信息，并发送电子邮件至 ningjiang@apache.org 与我们联系。您的相关信息将被保密，只有需要知道以确保提供这些配套服务的人员才能了解。</description>
     </item>
