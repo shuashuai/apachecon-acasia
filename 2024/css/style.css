@@ -503,7 +503,7 @@
 	#header {
 		color: white;
 		min-height: 4em;
-		background-image: url(../images/cocasia2024-nav-bg.jpg);
+		background-image: url("/2024/images/cocasia2024-nav-bg.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 	}
