@@ -13,7 +13,7 @@ This session explores the transformative potential of integrating Generative AI 
 
 <img src="https://sessionize.com/image/ead4-400o400o1-MxgoGiatXrXoHtbuJ6EW4d.jpg" width="200" /><br/>
 
-Wentao Liu
+Wentao Liu: Business Development Manager at ictrek.com 
 
 Wentao has more than 20 years of experience in the Linux community. In his earlier Linux activities, he applied LVS technology in producing Layer 4 switches. Now, as an advocate of LLMs and cloud-native, he is focusing on the area of AI agents, LLMs and RAG, AI/ML integration with Kubernetes, especially on MLOps and Speech-to-text application integration. He spoke at several open source conferences, such as FOSSASIA, ApacheCon, and FOSDEM to share his learning experience of open source technologies. 
 

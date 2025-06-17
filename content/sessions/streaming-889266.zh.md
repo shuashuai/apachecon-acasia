@@ -12,14 +12,11 @@ Kafka 和 Flink 已广泛应用于流处理场景，成为构建流式数据仓�
 
 最后，我们将探讨 Flink + Fluss 的实际用例，展示这一强大的组合如何带来真正的优势，例如降低基础设施成本、提升性能以及增强大规模流式和批处理工作负载的稳定性。
 
-=======================================================
-
-委员会须知：Fluss 目前是阿里巴巴旗下的一个开源项目，计划于 2025 年 5 月捐赠给 Apache 软件基金会。如果一切顺利，到大会召开时，它很可能已经是 Apache 孵化项目了。
 
 ### 讲师:
 
 <img src="https://sessionize.com/image/19c7-400o400o1-b7b9ecef-9748-4e55-b53e-b20d108e3488.jpg" width="200" /><br/>
 
-Jark Wu
+Jark Wu: 阿里巴巴
 
 Jark Wu 是 Apache Flink 的提交者和 PMC 成员。他领导着阿里云的 Fluss 和 Flink SQL 团队。凭借十年的 Flink 经验，他深度参与了 Flink SQL 从零到现在的开发和演进。在此期间，他还发起并孵化了 Flink CDC 和 Fluss 项目，进一步扩展了 Flink 生态系统。
