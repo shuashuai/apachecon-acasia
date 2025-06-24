@@ -77,19 +77,17 @@ Community Over Code (前 ApacheCon ) 致力于为每个人提供无骚扰的体�
     </item>
     
     <item>
-      <title>RobustMQ - 下一代高性能云原生融合消息队列</title>
+      <title>RobustMQ：探索如何用 Rust 重写消息队列</title>
       <link>/zh/sessions/rust-898182.html</link>
       <pubDate>Sun, 27 Jul 2025 17:15:00 +0000</pubDate>
       
       <guid>/zh/sessions/rust-898182.html</guid>
-      <description>RobustMQ 是一个消息队列领域的开源项目，基于 Apache OpenDAL 构建，100% 使用 Rust 语言编写。其目标是构建一个高性能、高可用、兼容多种主流消息队列协议，并在架构上具备完整 Serverless 能力的下一代融合消息队列。
-它基于 Apache OpenDAL 连接对象存储 (S3)、HDFS、File、MySQL、Redis 等多种不同的存储引擎，屏蔽了底层存储引擎的差异，打造一个可插拔的 Serverless 存储层架构。
-整体分布式分层架构的设计和开发已完成。目前已全面支持 MQTT3/4/5 协议的所有功能，并已发布首个 RobustMQ MQTT 版本。接下来将支持 Kafka 协议。
-它采用 Apache License 2.0 许可，其愿景是打造一款面向人工智能时代的、具有竞争力的消息队列产品。并已成为 Apache 基金会的顶级项目。
-其特点如下：
- 100% Rust 实现：完全用 Rust 实现的消息队列内核。 多协议：支持 MQTT 3.1/3.1.1/5.0、AMQP、RocketMQ Remoting/GRPC、Kafka Protocol、OpenMessing、JNS、SQS 等主流消息协议。 分层架构：计算、存储、调度独立的三层架构，每层均具备集群部署能力，具备快速水平扩展能力。 插件式存储：独立的插件式存储层实现，您可以根据需要选择合适的存储层。兼容传统架构和云原生架构，支持云和 IDC 部署模式。 高内聚架构：提供内置元数据存储组件、分布式Journal存储服务，具备快速、便捷、内聚的部署能力。 丰富的功能：支持顺序消息、死消息、事务消息、幂等消息、延时消息等丰富的消息队列功能。  讲师: 
-Lobo Xu: RobustMQ Auther
-字节跳动高级工程师，腾讯云高级工程师。曾任腾讯云消息队列 Kafka/RabbitMQ 技术负责人。 他是极客时间专栏《深入解析消息队列》和《Rust 实战：编写下一代云原生消息队列》的作者，也是技术书籍《基础软件之路：企业实践与开源策略》的合著者。 RobustMQ 和 Apache Kafka/RocketMQ/Pulsar 的作者，活跃于消息队列和 Serverless 开源社区。对 MQ 和 Serverless 有着深入的产品、技术和商业理解及愿景。</description>
+      <description>RobustMQ 是一个 100% 基于 Rust 语言开发的开源消息队列。它希望探索 Rust 和消息队列结合的可能性，目标是交付一个支持多种主流消息协议、完全 Serverless 架构、低成本、弹性的消息队列。它的愿景是为 AI 系统量身定制统一的消息基础设施，为 AI 应用提供统一高效通信底座。
+本次分享内容：
+ 我们为什么要写 RobustMQ。 RobustMQ 和现有消息队列组件的区别。 我们是如何用 Rust 从 0 实现一个分布式的存储系统。 我们已经完成 RobustMQ MQTT 第一个 Release版本，它是如何实现的，效果如何。 RobustMQ 的未来演进。  同时我们希望找到对用Rust 实现基础架构组件、消息队列、分布式存储系统感兴趣的同学，一起探索 Rust 在基础架构领域的无限可能。
+讲师: 
+Lobo Xu: RobustMQ Author
+RobustMQ 作者，前字节跳动、腾讯云技术专家，极客时间专栏《深入拆解消息队列47讲》和《Rust 实战：手写下一代云原生消息队列》作者，Apache Kafka/RocketMQ/Pulsar Contributor。专注于消息队列和分布式存储系统。</description>
     </item>
     
     <item>
@@ -375,6 +373,18 @@ Apache Dubbo Commiter，热衷于开源，在微服务和中间件领域有一�
     </item>
     
     <item>
+      <title>Apache Cloudberry 简介：演变、主要特性和路线图</title>
+      <link>/zh/sessions/datalake-915155.html</link>
+      <pubDate>Sun, 27 Jul 2025 15:00:00 +0000</pubDate>
+      
+      <guid>/zh/sessions/datalake-915155.html</guid>
+      <description>Apache Cloudberry 是一款先进且成熟的开源 MPP 数据库，它源自 Pivotal Greenplum Database® 的开源版本，但基于更现代的 PostgreSQL 内核构建，并具备更先进的企业级功能。Cloudberry 既可以用作数据仓库，也可以用于大规模分析和 AI/ML 工作负载。 在本次会议中，我们将探讨该项目的起源、进入 Apache 孵化器的历程，以及它与其他分析型数据库的区别。我们将介绍 Cloudberry 的核心功能、架构亮点，并分享其未来发展路线图。本次会议还将与其他数据仓库系统进行简要比较，帮助听众了解 Apache Cloudberry 在生态系统中的地位以及未来的发展方向。
+讲师: 
+Max Yang: Apache Cloudberry PPMC 成员，HashData 技术副总裁
+Apache Cloudberry PPMC 成员、HashData 技术副总裁</description>
+    </item>
+    
+    <item>
       <title>IoTDB 时序数据订阅：设计与高效实践</title>
       <link>/zh/sessions/iot-915157.html</link>
       <pubDate>Sun, 27 Jul 2025 15:00:00 +0000</pubDate>
@@ -399,19 +409,6 @@ Song Jin: HugeGraph committer
 
 Zhe Wang: Hugegraph commiter
 对图形存储和图形 AI 感兴趣。</description>
-    </item>
-    
-    <item>
-      <title>使用 Apache Iceberg 增强 Lakehouse 实施</title>
-      <link>/zh/sessions/datalake-914503.html</link>
-      <pubDate>Sun, 27 Jul 2025 15:00:00 +0000</pubDate>
-      
-      <guid>/zh/sessions/datalake-914503.html</guid>
-      <description>现代数据湖架构融合了数据湖和数据仓库的优势，通过 ACID 事务、模式演进和性能优化实现可扩展分析。Apache Iceberg 已成为领先的开放表格式，通过提供可靠性、可扩展性以及与 Spark、Flink、Doris、StarRocks、Impala、Hive、Nifi、Kafka 和 Trino 等热门开源计算引擎的无缝集成，为数据湖实现提供强大的支持。
-在本次会议中，我们将探讨 Apache Iceberg 如何通过确保数据可靠性、优化性能、实现多引擎兼容性和简化维护来增强数据湖架构。此外，我们还将讨论实际用例、将 Hive 表迁移到 Iceberg 表的最佳实践，以及如何利用其特性构建高性能、面向未来的数据湖。
-讲师: 
-Bill Zhang: Cloudera、Lakehouse 和 Iceberg 集成
-Bill 是 Cloudera 的产品战略副总裁，负责 Open Data Lakehouse 产品战略以及 Apache Iceberg 与所有 Cloudera 数据平台 (CDP) 的集成。最近，Bill 还负责 Apache Hive 的产品路线图和应用</description>
     </item>
     
     <item>
@@ -788,18 +785,6 @@ Stocks Alex: Dubbogo 社区的发言人
     </item>
     
     <item>
-      <title>Apache Cloudberry 简介：演变、主要特性和路线图</title>
-      <link>/zh/sessions/datalake-915155.html</link>
-      <pubDate>Sat, 26 Jul 2025 16:15:00 +0000</pubDate>
-      
-      <guid>/zh/sessions/datalake-915155.html</guid>
-      <description>Apache Cloudberry 是一款先进且成熟的开源 MPP 数据库，它源自 Pivotal Greenplum Database® 的开源版本，但基于更现代的 PostgreSQL 内核构建，并具备更先进的企业级功能。Cloudberry 既可以用作数据仓库，也可以用于大规模分析和 AI/ML 工作负载。 在本次会议中，我们将探讨该项目的起源、进入 Apache 孵化器的历程，以及它与其他分析型数据库的区别。我们将介绍 Cloudberry 的核心功能、架构亮点，并分享其未来发展路线图。本次会议还将与其他数据仓库系统进行简要比较，帮助听众了解 Apache Cloudberry 在生态系统中的地位以及未来的发展方向。
-讲师: 
-Max Yang: Apache Cloudberry PPMC 成员，HashData 技术副总裁
-Apache Cloudberry PPMC 成员、HashData 技术副总裁</description>
-    </item>
-    
-    <item>
       <title>Celeborn 的革新：多引擎支持、性能掌控与技术创新</title>
       <link>/zh/sessions/datastorage-896070.html</link>
       <pubDate>Sat, 26 Jul 2025 16:15:00 +0000</pubDate>
@@ -841,6 +826,19 @@ Shengzhong Liu: 腾讯
 讲师: 
 Lei Huang: 中国杭州 Greptime 数据库开发人员
 Lei 是一位来自中国的热情开源数据库开发者。在北京大学获得计算机科学硕士学位后，他加入支付宝，从事基础设施和中间件开发工作，并领导开发了用于交易处理的大规模消息队列。后来，他作为创始成员加入 Greptime，主要负责存储引擎的开发。他的主要兴趣是分布式系统和数据库存储子系统。</description>
+    </item>
+    
+    <item>
+      <title>使用 Apache Iceberg 增强 Lakehouse 实施</title>
+      <link>/zh/sessions/datalake-914503.html</link>
+      <pubDate>Sat, 26 Jul 2025 16:15:00 +0000</pubDate>
+      
+      <guid>/zh/sessions/datalake-914503.html</guid>
+      <description>现代数据湖架构融合了数据湖和数据仓库的优势，通过 ACID 事务、模式演进和性能优化实现可扩展分析。Apache Iceberg 已成为领先的开放表格式，通过提供可靠性、可扩展性以及与 Spark、Flink、Doris、StarRocks、Impala、Hive、Nifi、Kafka 和 Trino 等热门开源计算引擎的无缝集成，为数据湖实现提供强大的支持。
+在本次会议中，我们将探讨 Apache Iceberg 如何通过确保数据可靠性、优化性能、实现多引擎兼容性和简化维护来增强数据湖架构。此外，我们还将讨论实际用例、将 Hive 表迁移到 Iceberg 表的最佳实践，以及如何利用其特性构建高性能、面向未来的数据湖。
+讲师: 
+Bill Zhang: Cloudera、Lakehouse 和 Iceberg 集成
+Bill 是 Cloudera 的产品战略副总裁，负责 Open Data Lakehouse 产品战略以及 Apache Iceberg 与所有 Cloudera 数据平台 (CDP) 的集成。最近，Bill 还负责 Apache Hive 的产品路线图和应用</description>
     </item>
     
     <item>
@@ -1846,7 +1844,7 @@ Miley 是一名开发者倡导者，热衷于赋能开发者构建和贡献开�
       
       <guid>/zh/sessions/ai-912444.html</guid>
       <description>作为一款热门的 OLAP 实时分析数据库，Apache Doris 在当前 AI 浪潮快速变革的时代背景下，已构建或正在规划更多与 AI 相关的功能及周边组件，如向量检索、MCP、RAG 等功能模块。本次演讲将通过交流与演示，公布 Doris 在 AI 方向的当前进展。
-演讲嘉宾: 苏奕嘉: Apache Doris Committer、SelectDB 解决方案架构师、PowerData 赞助商
+演讲嘉宾: 苏奕嘉: Apache Doris Committer、SelectDB 解决方案架构师、PowerData 发起人
 Apache Doris Committer，Apache Doris 社区布道师，Doris-MCP 贡献者，SelectDB 高级解决方案架构师，PowerData 社区发起人，曾协助 Apache Doris 社区数百家企业完成实时数仓建设与优化演进。</description>
     </item>
     
