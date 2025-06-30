@@ -1,7 +1,7 @@
 ---
 title: "Xiaomi's Efficient Data & AI Optimization with Apache Paimon"
 date: "2025-07-27T17:15:00"
-room:  "WanChun Hall"
+room: "WanChun Hall"
 track: "datalake"
 presenters: "Houliang Qi"
 stype: "Chinese Session"
@@ -29,4 +29,4 @@ Through this sharing, users will learn how Xiaomi leverages Apache Paimon to opt
 
 Houliang Qi: Xiaomi
 
-PMC member of Apache IoTDB and Apache TsFile. Software R&D Engineer at Xiaomi, specializing in the development and implementation of Xiaomi's datalake platform.
+PMC member of Apache IoTDB and Apache TsFile. Senior Software R&D Engineer at Xiaomi, specializing in the development and implementation of Xiaomi's datalake platform.

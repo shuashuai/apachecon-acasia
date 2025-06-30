@@ -1,7 +1,7 @@
 ---
 title: "Building a real-time data lakehouse in practice"
 date: "2025-07-26T15:00:00"
-room:  "WanChun Hall"
+room: "WanChun Hall"
 track: "datalake"
 presenters: "Congxian Qiu, Zhuojun Jiang"
 stype: "Chinese Session"
@@ -21,9 +21,9 @@ This system has been implemented in the production practice of telecom operators
 
 <img src="https://sessionize.com/image/25e4-400o400o1-9iGsggaDEwoFcYqGXtpqoM.jpg" width="200" /><br/>
 
-Congxian Qiu: Apache Flink Committer, Apache(incubating) Amoro PMC member
+Congxian Qiu: Apache Flink Committer, Apache(incubating) Amoro PMC member, Associate Director at StateCloud
 
-Congxian Qiu is an expert in StateCloud R&D, with many years of experience in big data infrastructure. He has participated in and led the development of large-scale data processing frameworks. He is an Apache Committer and Apache(incubating) Amoro PMC member.
+Congxian Qiu has many years of experience in big data infrastructure research and development. Currently, He leads the development of large-scale data lake platform based on Apache Iceberg. He is an Apache Flink Committer and Apache(incubating) Amoro PMC member.
 
 <img src="https://sessionize.com/image/dd80-400o400o1-SKrNUnGVHC8xTrBeHtFLHN.jpg" width="200" /><br/>
 
