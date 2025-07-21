@@ -16,6 +16,6 @@ I’ll share hard-won lessons, strategic pivots, and industry shifts I’ve seen
 
 <img src="https://sessionize.com/image/bbdf-400o400o1-UxyepShfdzeHUN3FbnajTv.jpg" width="200" /><br/>
 
-Rui Su: Open-source advocate,co-founder of JuiceFS
+Rui Su: Open-source advocate and co-founder of JuiceFS, a cloud-native distributed file system
 
 Rui Su is the co-founder of Juicedata, creator of JuiceFS, an open-source distributed file system built on object storage. Over the past 7 years, he has led its evolution from a proprietary system to a globally adopted Apache 2.0 project. Rui is active in the distributed storage community. Before Juicedata, he founded a startup and led development of an online community that won China’s only Prix Ars Electronica Golden Nica.
